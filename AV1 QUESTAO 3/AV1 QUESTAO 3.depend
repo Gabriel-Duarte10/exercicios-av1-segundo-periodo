@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603676239 source:c:\users\gabriel duarte\desktop\estrutura de dados\av1\av1 questao 3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"FUNCOES.h"
+
+1603676300 c:\users\gabriel duarte\desktop\estrutura de dados\av1\av1 questao 3\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+

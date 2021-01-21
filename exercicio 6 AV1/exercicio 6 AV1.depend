@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1602900855 source:c:\users\gabriel duarte\desktop\estrutura de dados\av1\exercicio 6 av1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"FUNCOES.h"
+
+1603240624 c:\users\gabriel duarte\desktop\estrutura de dados\av1\exercicio 6 av1\funcoes.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+

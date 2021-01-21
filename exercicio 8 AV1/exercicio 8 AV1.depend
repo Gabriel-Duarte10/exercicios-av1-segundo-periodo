@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1602894213 source:c:\users\gabriel duarte\desktop\progamacao 2 periodo\teste questao\exercicio 8 av1\main.cpp
+	<iostream>
+	"funcoes.h"
+	<stdlib.h>
+
+1602894553 c:\users\gabriel duarte\desktop\progamacao 2 periodo\teste questao\exercicio 8 av1\funcoes.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1602894213 source:c:\users\gabriel duarte\desktop\estrutura de dados\av1\exercicio 8 av1\main.cpp
+	<iostream>
+	"funcoes.h"
+	<stdlib.h>
+
+1603827621 c:\users\gabriel duarte\desktop\estrutura de dados\av1\exercicio 8 av1\funcoes.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
